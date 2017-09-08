@@ -1,0 +1,10 @@
+{
+  "originalAssetUrl": "https://predix-asset.run.aws-usw02-pr.ice.predix.io",
+  "originalAssetZoneId": "",
+  "originalUaaUrl": "https://my-uaa.predix-uaa.run.aws-usw02-pr.ice.predix.io",
+  "originalUaaCredentials": "",
+  "destinationAssetUrl": "https://predix-asset.run.aws-usw02-pr.ice.predix.io",
+  "destinationAssetZoneId": "",
+  "destinationUaaUrl": "https://my-uaa.predix-uaa.run.aws-usw02-pr.ice.predix.io",
+  "destinationUaaCredentials": ""
+}
